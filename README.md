@@ -18,6 +18,7 @@
   <img title="Python" alt="Python" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />&nbsp;&nbsp;
   <img title="SQL" alt="SQL" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/sql/sql.png" />&nbsp;&nbsp;
   <img title="C" alt="C" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/c/c.png" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++ Logo" width="30"/>
 </p>
 
 ---
