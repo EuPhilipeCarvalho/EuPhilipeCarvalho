@@ -15,9 +15,9 @@
 ## 💻 Linguagens mais praticadas
 
 <p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java Logo" width="40" /> 
   <img title="Python" alt="Python" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />&nbsp;&nbsp;
   <img title="SQL" alt="SQL" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/sql/sql.png" />&nbsp;&nbsp;
-  <img title="C" alt="C" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/c/c.png" />
   <img title ="C++" alt="C++" width="30" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" />
 </p>
 
@@ -26,6 +26,7 @@
 ## 🛠️ Ferramentas mais utilizadas
 
 <p align="left">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" width="45" height="34" alt="IntelliJ IDEA logo"/>
   <img title="VS Code" alt="VS Code" width="30px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" />&nbsp;&nbsp;
   <img title="Git" alt="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" />&nbsp;&nbsp;
   <img title="MySQL Workbench" alt="MySQL" width="40px" src="https://upload.wikimedia.org/wikipedia/en/d/dd/MySQL_logo.svg" />&nbsp;&nbsp;
