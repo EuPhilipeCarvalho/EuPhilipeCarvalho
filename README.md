@@ -2,7 +2,9 @@
 
 <p align="left">
 🎓 Estudante de Análise e Desenvolvimento de Sistemas (UNIGRANRIO – 2º semestre)
+  
 💻 Foco em Back-end Java
+
 🚀 Buscando oportunidades de estágio em desenvolvimento back-end
 </p>
 
