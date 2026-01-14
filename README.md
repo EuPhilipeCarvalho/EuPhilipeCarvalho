@@ -1,9 +1,9 @@
 <h1 align="left">👋 Opa! Sou o Philipe</h1>
 
 <p align="left">
-🎓 Estudante de Análise e Desenvolvimento de Sistemas (UNIGRANRIO – 2º semestre) <br>
-📊 Estudo independente em Análise de Dados <br>
-🚀 Buscando oportunidades em Desenvolvimento e Dados
+🎓 Estudante de Análise e Desenvolvimento de Sistemas (UNIGRANRIO – 2º semestre)
+💻 Foco em Back-end Java
+🚀 Buscando oportunidades de estágio em desenvolvimento back-end
 </p>
 
 ---
